@@ -13,6 +13,7 @@ It is very important repository for Linux users to do various job at terminal wi
 ---
 
 ### Chief Contributor
+<img src="https://avatars3.githubusercontent.com/u/8403337?s=&v=400" alt="Engr. Syed Rowshan Ali" width="188" height="188">
 
 #### Engr. Syed Rowshan Ali
 ##### Career
