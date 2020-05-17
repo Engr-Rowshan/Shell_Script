@@ -18,4 +18,8 @@ echo "3. Php FPM Backup Starting"
 echo "Php FPM Backup Complete"
 echo "###############################"
 
+echo "4. IPTABLES Backup Starting"
+./iptablesbackup.sh
+echo "IPTABLES Backup Complete"
+echo "###############################"
 
