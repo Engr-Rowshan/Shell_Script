@@ -11,7 +11,7 @@ sleep 3
 now=$(date +"%Y-%m-%d-%H-%M-%S")
 destFile="phpfpm-$now$(echo "-archive.tar.gz")"
 
-if [ ! -d /backup/pfpfpm ]
+if [ ! -d /backup/phpfpm ]
 then
 	mkdir /backup/phpfpm
 fi
